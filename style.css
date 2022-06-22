@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(166, 255, 0);
+    background-image: url(bg-intro-desktop.png);
+    background-size: 70%;
+}
+h1{
+    color: red;
+}
